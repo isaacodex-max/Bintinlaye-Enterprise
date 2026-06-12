@@ -68,7 +68,7 @@ export default function Navbar() {
           <img src={logo} alt="Bintinlaye" className="h-9 w-9 rounded-full ring-1 ring-[color:var(--gold)]/40" />
           <div className="leading-tight">
             <div className="font-display text-lg gold-text">Bintinlaye</div>
-            <div className="text-[10px] uppercase tracking-[0.3em] text-muted-foreground">Group</div>
+            <div className="text-[10px] uppercase tracking-[0.3em] text-muted-foreground">Enterprise</div>
           </div>
         </Link>
 

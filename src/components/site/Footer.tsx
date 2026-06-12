@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-6 py-16 sm:px-8">
         <div className="grid gap-12 md:grid-cols-4">
           <div>
-            <div className="font-display text-2xl gold-text">Bintinlaye Group</div>
+            <div className="font-display text-2xl gold-text">Bintinlaye Enterprise</div>
             <p className="mt-3 text-sm text-muted-foreground">
               A premium African enterprise — artisan bread, wholesale ingredients, and a luxury fitness experience.
             </p>
@@ -61,7 +61,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-white/10 pt-6 text-xs text-muted-foreground sm:flex-row">
-          <span>© {new Date().getFullYear()} Bintinlaye Group. All rights reserved.</span>
+          <span>© {new Date().getFullYear()} Bintinlaye Enterprise. All rights reserved.</span>
           <span>Crafted with care · Premium standard.</span>
         </div>
       </div>

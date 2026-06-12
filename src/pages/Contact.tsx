@@ -103,7 +103,7 @@ export default function Contact() {
 
               <div className="overflow-hidden rounded-3xl glass">
                 <iframe
-                  title="Bintinlaye Group location"
+                  title="Bintinlaye Enterprise location"
                   src="https://www.google.com/maps?q=Lagos%2C+Nigeria&output=embed"
                   className="block h-72 w-full grayscale-[20%] [filter:invert(0.85)_hue-rotate(180deg)]"
                   loading="lazy"

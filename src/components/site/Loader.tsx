@@ -22,7 +22,7 @@ export default function Loader() {
           />
           <span className="absolute inset-0 grid place-items-center font-display text-2xl gold-text">B</span>
         </motion.div>
-        <div className="text-xs uppercase tracking-[0.4em] text-muted-foreground">Bintinlaye Group</div>
+        <div className="text-xs uppercase tracking-[0.4em] text-muted-foreground">Bintinlaye Enterprise</div>
       </div>
     </div>
   );

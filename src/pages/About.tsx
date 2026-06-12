@@ -14,7 +14,7 @@ const timeline = [
   { year: "2008", title: "Bintinlaye Special Bread", text: "A single oven, a family recipe, and the loaf that started it all." },
   { year: "2014", title: "Bintinlaye Ventures", text: "Wholesale flour and ingredient supply launches to power bakeries across the region." },
   { year: "2019", title: "Bintinlaye Gym Center", text: "Bringing world-class fitness facilities to our community." },
-  { year: "Today", title: "The Bintinlaye Group", text: "Three flagship brands operating under one uncompromising standard." },
+  { year: "Today", title: "The Bintinlaye Enterprise", text: "Three flagship brands operating under one uncompromising standard." },
 ];
 
 export default function About() {
@@ -23,7 +23,7 @@ export default function About() {
       <PageHero
         eyebrow="About"
         title="A family of brands built on craft."
-        description="The Bintinlaye Group is the result of two decades of quiet, careful work — refining what excellence means in every category we touch."
+        description="The Bintinlaye Enterprise is the result of two decades of quiet, careful work — refining what excellence means in every category we touch."
       />
 
       <section className="section-pad">

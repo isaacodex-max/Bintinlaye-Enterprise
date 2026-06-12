@@ -34,7 +34,7 @@ export default function Home() {
       {/* HERO */}
       <section ref={ref} className="relative isolate h-screen min-h-[680px] w-full overflow-hidden">
         <motion.div style={{ y: yImg }} className="absolute inset-0 -z-10">
-          <img src={hero} alt="Bintinlaye Group" className="h-full w-full object-cover" />
+          <img src={hero} alt="Bintinlaye Enterprise" className="h-full w-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/55 to-background" />
         </motion.div>
 
@@ -62,7 +62,7 @@ export default function Home() {
             transition={{ duration: 0.9, delay: 0.2 }}
             className="mx-auto mt-6 max-w-2xl text-pretty text-base text-foreground/80 sm:text-lg"
           >
-            From the warmth of freshly baked bread to the precision of elite training, the Bintinlaye Group builds enduring brands rooted in quality, care and craft.
+            From the warmth of freshly baked bread to the precision of elite training, the Bintinlaye Enterprise builds enduring brands rooted in quality, care and craft.
           </motion.p>
           <motion.div
             initial={{ opacity: 0, y: 24 }}
